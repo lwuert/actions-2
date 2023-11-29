@@ -3,6 +3,7 @@
 Repo for the `GitHub Actions Fundamentals` training.
 
 # Test Workflow
+# Test Workflow_2 [skip ci]
 
 ## 👉 Objectives
 
